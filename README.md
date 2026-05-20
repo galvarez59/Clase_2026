@@ -1,1 +1,1 @@
-# Clase_2026
+# Clase_2026 pruebas de archivos secuenciales
